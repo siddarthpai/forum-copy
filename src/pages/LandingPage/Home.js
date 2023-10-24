@@ -9,7 +9,7 @@ function Home() {
   const navigate = useNavigate();
 
   const handleSignIn = () => {
-    navigate("/blogs");
+    navigate("/home");
   };
 
   return (
